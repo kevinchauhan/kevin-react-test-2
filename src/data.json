@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "name": "Men's Shirt",
+        "brand": "Van Heusen",
+        "price": "599",
+        "category": "shirt",
+        "color": "white",
+        "img":"https://m.media-amazon.com/images/I/61JAh9nPPxL._AC_UL320_.jpg",
+        "type":"men"
+    },
+    {
+        "id": "2",
+        "name": "Men's Regular Fit Shirt",
+        "brand": "Peter England",
+        "price": "539",
+        "category": "shirt",
+        "color": "blue",
+        "img":"https://m.media-amazon.com/images/I/913RhtghmVL._AC_UL320_.jpg",
+        "type":"men"
+    },
+    {
+        "id": "3",
+        "name": "Light Yellow Blazer",
+        "brand": "Park Avenue",
+        "price": "3539",
+        "category": "blazer",
+        "color": "yellow",
+        "img":"https://m.media-amazon.com/images/I/71wGhBan-PL._AC_UL320_.jpg",
+        "type":"men"
+    },
+    {
+        "id": "4",
+        "name": "Dark Blue Blazer",
+        "brand": "Arrow",
+        "price": "4139",
+        "category": "blazer",
+        "color": "blue",
+        "img":"https://m.media-amazon.com/images/I/61ziChMh7JL._AC_UL320_.jpg",
+        "type":"men"
+    },
+    {
+        "id": "5",
+        "name": "Checks Viscose Round Neck Women's Shirt",
+        "brand": "Arrow",
+        "price": "939",
+        "category": "blazer",
+        "color": "white",
+        "img":"https://m.media-amazon.com/images/I/51iQvkD5D7L._AC_UL320_.jpg",
+        "type":"women"
+    }
+]
